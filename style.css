@@ -1,0 +1,14 @@
+h1 {
+    font-weight: 300;
+    color: blue;
+}
+
+li{
+    font-size: small;
+    color: red;
+}
+
+.random {
+    color: green;
+    font-size: xxx-large;
+}
